@@ -31,5 +31,8 @@ SOCIAL = (
 
 DEFAULT_PAGINATION = 10
 
+# THEME PATH -> str
+THEME = "./pika"
+
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
